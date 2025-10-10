@@ -1,4 +1,4 @@
-# STD DATAPIC READER
+# STANDARD DATAPIC READER
 
 DATAPIC TECHNOLOGY is a
 frontend internet technology allowing secure storage & retrieval of data by encryption onto an image file (Datapic). 
