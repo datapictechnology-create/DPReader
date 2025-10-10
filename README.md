@@ -2,7 +2,7 @@
 
 DATAPIC TECHNOLOGY is a
 frontend internet technology allowing secure, data storage & retrieval by the encryption of data within an image file (Datapic). 
-THe amount of data that can be stored on a datapic (200 x 200 pixels) is 4000 chrs.  Data types include: TEXT, HTML, JavaScript, CSS.
+THe amount of data that can be stored on a datapic (200 x 200 pixels) is 4000 chrs.  Data types include: TEXT, HTML, JAVASCRIPT, CSS.
 Facilitated by a Datapic writer/creator (DATAPIC PRESS) & Datapic reader (STANDARD DATAPIC READER).
 Datapics are  read by inputting a web address of a Datapic to the reader.
 Alternatively, Datapics can be read  by creating a remote URL link to the reader.
