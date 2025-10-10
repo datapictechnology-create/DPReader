@@ -7,7 +7,7 @@ Facilitated by a Datapic writer/creator (DATAPIC PRESS) & Datapic reader (STANDA
 Datapics are  read by inputting a web address of a Datapic to the reader.
 Alternatively, Datapics can be read  by creating a remote URL link to the reader.
 For security, Datapics can be locked by password, 2Factor Authentication or by date expiry. Include appropriate Javascript code onto the Datapic.
-*User notes at datapictechnology.org/STD DATAPIC PRESS DEMO.htm
+See user notes at datapictechnology.org/STD DATAPIC PRESS DEMO.htm
 
 GETTING STARTED
 1. Create a Datapic using DATAPIC PRESS (Demo version) at: datapictechnology.org/STD DATAPIC PRESS DEMO.htm.
