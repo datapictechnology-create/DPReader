@@ -15,13 +15,13 @@ GETTING STARTED
 Or create a link to the address of your Datapic.
 
 READING DATAPICS USING REMOTE URL LINK
-datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote address of Datapic'] 
+Datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote address of Datapic'] 
 * YOU MUST OMIT 'http://www.' from the [remote address of your Datapic]. This is added by the reader.
 
 USER NOTES 
 User notes at datapictechnology.org/STD DATAPIC PRESS DEMO.htm
 
-DATAPIC PRESS WEB MODULE (download)
+DATAPIC PRESS WEB MODULE (DOWNLOAD)
 Full version of DATAPIC PRESS for Home/Office/Online use.
 * No permissions for publishing/sales of Datapics except on the DATAPIC PRESS MODULE.
 (until further notice).
