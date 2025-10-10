@@ -7,16 +7,16 @@ Facilitated by a Datapic writer/creator ('DATAPIC PRESS') & Datapic reader ('STA
 Datapics can be read by direct upload to the reader or by remote URL link to the reader.
 
 GETTING STARTED
-1. Create a Datapic using DATAPIC PRESS (Demo version) at: www.datapictechnology.org/STD DATAPIC PRESS DEMO.htm.
+1. Create a Datapic using DATAPIC PRESS (Demo version) at: datapictechnology.org/STD DATAPIC PRESS DEMO.htm.
 2. Store your Datapic at a web address of your choice.
-3. Input web address of your Datapic to the reader to read at: www.datapictechnology.org.
+3. Input web address of your Datapic to the reader to read at: datapictechnology.org.
 Or create a link to the address of your Datapic.
 
-USING URL LINK
-http://www.datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote addres of Datapic'] 
+READING DATAPICS USING REMOTE URL Link
+datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote addres of Datapic'] 
 * YOU MUST OMIT 'http://www.' from the remote address of your Datapic. This is added by the reader.
 
-USER NOTES at www.datapictechnology.org/STD DATAPIC PRESS DEMO.htm
+USER NOTES at datapictechnology.org/STD DATAPIC PRESS DEMO.htm
 
 DATAPIC PRESS WEB MODULE (download)
 Full version of DATAPIC PRESS for Home/Office/Online use.
