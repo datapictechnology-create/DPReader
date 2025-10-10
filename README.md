@@ -1,9 +1,9 @@
 # DPReader
 
 DATAPIC TECHNOLOGY is a
-frontend internet technology allowing secure storage & retrieval of data by encryption onto an image file ('Datapic'). 
+frontend internet technology allowing secure storage & retrieval of data by encryption onto an image file (Datapic). 
 Storage capacity: 4000 chrs.  Data types include: TEXT, HTML, JavaScript, CSS.
-Facilitated by a Datapic writer/creator ('DATAPIC PRESS') & Datapic reader ('STANDARD DATAPIC READER').
+Facilitated by a Datapic writer/creator (DATAPIC PRESS) & Datapic reader (STANDARD DATAPIC READER).
 Datapics can be read by inputting Datapic web address to the reader.
 Alternatively, Datapics can be read  by creating a remote URL link to the reader.
 
