@@ -4,7 +4,8 @@ DATAPIC TECHNOLOGY
 Frontend internet technology allowing secure storage & retrieval of data by encryption onto an image file ('Datapic'). 
 Storage capacity: 4000 chrs.  Data types include: TEXT, HTML, JavaScript, CSS.
 Facilitated by a Datapic writer/creator ('DATAPIC PRESS') & Datapic reader ('STANDARD DATAPIC READER').
-Datapics can be read by direct upload to the reader or by remote URL link to the reader.
+Datapics can be read by inputting Datapic web address to the reader.
+Alternatively, Datapics can be read  by creating a remote URL link to the reader.
 
 GETTING STARTED
 1. Create a Datapic using DATAPIC PRESS (Demo version) at: datapictechnology.org/STD DATAPIC PRESS DEMO.htm.
