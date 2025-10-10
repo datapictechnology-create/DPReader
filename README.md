@@ -14,7 +14,7 @@ GETTING STARTED
 2. Store your Datapic at a web address of your choice.
 3. Input web address of your Datapic to the reader to read at: datapictechnology.org.
 Or create a link to the address of your Datapic.
-4. Using a created link: datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote address of Datapic'] 
+4. Using a created link: htt//ww datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote address of Datapic'] 
 * You must omit 'http://www.' from the ['remote address of your Datapic']. This part is handled by the reader.
 
 DATAPIC PRESS WEB MODULE (DOWNLOAD)
