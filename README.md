@@ -14,7 +14,8 @@ GETTING STARTED
 3. Input web address of your Datapic to the reader to read at: datapictechnology.org.
 Or create a link to the address of your Datapic.
 
-READING DATAPICS USING REMOTE URL Link
+READING DATAPICS USING REMOTE URL LINK
+
 datapictechnology.org/STD DATAPIC READER.php?ImpImgAdd=['remote address of Datapic'] 
 * YOU MUST OMIT 'http://www.' from the [remote address of your Datapic]. This is added by the reader.
 
