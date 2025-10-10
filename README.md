@@ -18,6 +18,6 @@ Or create a link to the address of your Datapic.
 * You must omit 'http://www.' from the ['remote address of your Datapic']. This part is handled by the reader. So domain and file only.
 
 DATAPIC PRESS WEB MODULE (DOWNLOAD)
-Full version of DATAPIC PRESS for Home/Office/Online use.
+Full version of DATAPIC PRESS for Office/Online use.
 * No permissions for publishing/sales of Datapics except on the DATAPIC PRESS MODULE.
 (until further notice).
