@@ -19,5 +19,5 @@ Or create a link to the address of your Datapic.
 
 DATAPIC PRESS WEB MODULE (DOWNLOAD)
 Full version of DATAPIC PRESS for Office/Online use.
-* No permissions for publishing/sales of Datapics except on the DATAPIC PRESS MODULE.
+* No permissions for publishing/sales of Datapics except on the DATAPIC PRESS MODULE or here on GITHUB.
 (until further notice).
